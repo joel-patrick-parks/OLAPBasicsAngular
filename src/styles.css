@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+@import '@grapecity/wijmo.styles/wijmo.css';
+
+.flextable {
+    display: flex;
+}
+
+.wj-pivotpanel {
+    width: 500px;
+    margin: 0px 10px;
+}
+
+.wj-pivotgrid {
+    height: 600px;
+}
+
+.wj-flexchart {
+    margin-top: 10px;
+}
